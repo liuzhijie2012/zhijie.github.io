@@ -1,3 +1,20 @@
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Zhijie</h1>
+      <p><b>Associate Professor</b></p>
+      <p><b>School of Automation and Electrical Engineering, University of Science and Technology Beijing</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhijie.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/liuzhijie2012/zhijieweb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
