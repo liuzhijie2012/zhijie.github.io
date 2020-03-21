@@ -4,6 +4,7 @@
     <td width="75%">
       <h1>Zhijie</h1>
       <p><b>Associate Professor</b></p>
+      <p><b>School of Automation and Electrical Engineering</b></p>
       <p><b>University of Science and Technology Beijing</b></p>
     </td>
     <td width="25%">
